@@ -87,3 +87,8 @@ footer{
     display:table;
     clear:both;
 }
+
+img{
+    max-width: 300px;
+    height: auto;
+}
