@@ -76,3 +76,14 @@ footer{
     background-color: #ccc;
     color: #666;
 }
+/*  git remote add origin */
+
+.container-sentence {
+    margin-bottom: 3%;
+}
+
+.container-sentence:after {
+    content:"";
+    display:table;
+    clear:both;
+}
